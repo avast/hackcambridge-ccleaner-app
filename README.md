@@ -66,7 +66,7 @@ Sample command:
 
 ### Connecting CCleaner & ASB
 
-The provided sample registry key file will enable the browser to load CCleaner and pass cleaning report data back to it. You can verify this by visiting the browser's [Security & Privacy Center](secure://security-privacy-center/) page and observing that the 'Privacy Cleaner' tile has updated to 'CCleaner'.
+The provided sample registry key file will enable the browser to load CCleaner and pass cleaning report data back to it. You can verify this by visiting the browser's *Security & Privacy Center* page and observing that the 'Privacy Cleaner' tile has updated to 'CCleaner'.
 
 ### Useful Links
 
