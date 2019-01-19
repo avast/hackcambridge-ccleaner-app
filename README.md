@@ -72,4 +72,4 @@ The provided sample registry key file will enable the browser to load CCleaner a
 
 - [Windows Script Host](https://docs.microsoft.com/en-us/previous-versions/windows/internet-explorer/ie-developer/windows-scripting/9bbdkx3k(v%3dvs.84)) - provides information about Windows Script Host along with a reference section that documents the object model.
 
-- [CCleaner Command Line Parameters](www.ccleaner.com/docs/ccleaner/advanced-usage/command-line-parameters) - you can use command-line parameters to change how CCleaner runs.
+- [CCleaner Command Line Parameters](https://www.ccleaner.com/docs/ccleaner/advanced-usage/command-line-parameters) - you can use command-line parameters to change how CCleaner runs.
